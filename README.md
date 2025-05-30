@@ -5,8 +5,7 @@
 
 - 📫 How to reach me **DubrovinMax1256@gmail.com**
 <h2>
-    I very love backend and DevOps
-    
+    mainly focused on backend dev and DevOps  
 <p align="left">
 </p>
 
