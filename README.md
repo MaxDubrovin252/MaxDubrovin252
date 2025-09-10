@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">Im a Backend Dev from Belarus</h3>
+<h3 align="center">Im a Backend Dev and DevOps</h3>
 
 - 💬 Ask me about **Go,Js, and backend!**
 
